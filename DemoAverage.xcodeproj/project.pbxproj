@@ -12,6 +12,7 @@
 		FB6739831C369B3A000AA0CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB6739811C369B3A000AA0CF /* Main.storyboard */; };
 		FB6739851C369B3A000AA0CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB6739841C369B3A000AA0CF /* Assets.xcassets */; };
 		FB6739881C369B3A000AA0CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB6739861C369B3A000AA0CF /* LaunchScreen.storyboard */; };
+		FB6739901C369DF2000AA0CF /* averageTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB67398F1C369DF2000AA0CF /* averageTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FB6739841C369B3A000AA0CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB6739871C369B3A000AA0CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB6739891C369B3A000AA0CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB67398F1C369DF2000AA0CF /* averageTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = averageTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				FB67397D1C369B3A000AA0CF /* AppDelegate.swift */,
 				FB67397F1C369B3A000AA0CF /* ViewController.swift */,
+				FB67398F1C369DF2000AA0CF /* averageTableViewController.swift */,
 				FB6739811C369B3A000AA0CF /* Main.storyboard */,
 				FB6739841C369B3A000AA0CF /* Assets.xcassets */,
 				FB6739861C369B3A000AA0CF /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				FB6739801C369B3A000AA0CF /* ViewController.swift in Sources */,
 				FB67397E1C369B3A000AA0CF /* AppDelegate.swift in Sources */,
+				FB6739901C369DF2000AA0CF /* averageTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
